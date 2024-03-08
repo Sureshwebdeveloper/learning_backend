@@ -1,0 +1,21 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "learning http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sureshwebdeveloper/learning_backend"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "httpserver"
+  ],
+  "author": "suresh",
+  "license": "ISC",
+  "homepage": "https://github.com/Sureshwebdeveloper/learning_backend"
+}
